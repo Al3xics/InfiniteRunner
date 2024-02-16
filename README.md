@@ -34,7 +34,7 @@ This project represents my first venture into Unreal Engine. Over the span of tw
 Despite the challenges encountered, the project provided invaluable learning experiences and laid the groundwork for future endeavors in game development.<br>
 <br>
 
-### Have fun, and try to see the different AI we created !!<br>
+### Have fun !!<br>
 <br>
 
 
